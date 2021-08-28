@@ -1,5 +1,5 @@
 # SortingAlgorithmCompare
-These are programs to compare the speed of basic sorting algorithms an a linked list data type. For an array of 15000 elements, this is how the alogorithms fare:  
+These are programs to compare the speed of basic sorting algorithms an a linked list data type. For an array of 15000 elements, this is how the algorithms fare:  
 <img src="https://github.com/RCmags/SortingAlgorithmCompare/blob/main/data/sort_compare.png" 
      width="70%"></img>
 
